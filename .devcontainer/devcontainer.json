@@ -15,7 +15,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip3 install --user -r requirements.txt",
+	//"postCreateCommand": "pip3 install --user -r requirements.txt",
 
 	// Configure tool-specific properties.
 	"customizations": {
@@ -33,7 +33,7 @@
 			"extensions": [
 				"flyfly6.terminal-in-status-bar",
 				"PKief.material-icon-theme",
-				"littlefoxteam.vscode-python-test-adapter",
+				//"littlefoxteam.vscode-python-test-adapter",
 				"MS-vsliveshare.vsliveshare"
 			]
 		}
